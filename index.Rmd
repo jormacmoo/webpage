@@ -1,6 +1,6 @@
 ---
 title: "My Website"
-author: "Your Name"
+author: "Jordan Moody"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -32,3 +32,5 @@ ggplot(mtcars, aes(x=cyl, y= mpg)) +
 ```{r}
 head(mtcars)
 ```
+
+# Wow what a website!

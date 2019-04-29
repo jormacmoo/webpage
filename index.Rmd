@@ -1,6 +1,5 @@
 ---
-title: "My Website"
-author: "Jordan Moody"
+title: "Jordan M Moody"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -10,27 +9,17 @@ output:
     df_print: kable
 ---
 
+Welcome to a website in progress!
+
+Check the top bar for my resume, github, and other interesting things!
+
+#Links
+
+[My twitter](https://twitter.com/thepoodlegirl)
+
 <!--
-Comments in HTML are like this! 
+#Current Ventures
+
+
+#Future Ventures
 -->
-
-
-Hello, Website!
-
-# My first section
-
-```{r}
-library(ggplot2)
-ggplot(mtcars, aes(x=cyl, y= mpg)) +
-  geom_point() +
-  labs(x= "Number of cylinders", y = "Miles per gallon")
-```
-
-
-# My second section
-
-```{r}
-head(mtcars)
-```
-
-# Wow what a website!

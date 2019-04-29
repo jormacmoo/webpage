@@ -13,10 +13,11 @@ Welcome to a website in progress!
 
 Check the top bar for my resume, github, and other interesting things!
 
-<!--
 #Links
 
+[My twitter](https://twitter.com/thepoodlegirl)
 
+<!--
 #Current Ventures
 
 

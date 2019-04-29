@@ -17,11 +17,11 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: home.html
-    - text: "Index"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Example"
+      href: example.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/jormacmoo

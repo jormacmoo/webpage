@@ -21,7 +21,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Resume"
-      href: resume.html
+      href: ResumeJordanMoody.html
     - text: "Example"
       href: example.html
   right:

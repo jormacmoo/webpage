@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -220,6 +219,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -248,6 +248,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -333,7 +339,7 @@ div.tocify {
   <a href="about.html">About</a>
 </li>
 <li>
-  <a href="ResumeJordanMoody.html">Resume</a>
+  <a href="JMM_Resume.html">Resume</a>
 </li>
 <li>
   <a href="example.html">Example</a>
@@ -343,6 +349,18 @@ div.tocify {
         <li>
   <a href="https://github.com/jormacmoo">
     <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/thepoodlegirl">
+    <span class="fa fa-twitter-square fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/jordan-moody-tpg/">
+    <span class="fa fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -356,7 +374,7 @@ div.tocify {
 
 
 <h1 class="title toc-ignore">Jordan M Moody</h1>
-<h4 class="date">Last updated on 2019-11-05</h4>
+<h4 class="date">Last updated on 2020-02-04</h4>
 
 </div>
 

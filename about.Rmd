@@ -1,6 +1,5 @@
 ---
 title: "About This Website"
-author: "Your name"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -10,12 +9,13 @@ output:
     df_print: kable
 ---
 
-More about this website.
+Jordan Moody is currently an undergraduate student studying at Smith College. She is majoring in Statistical and Data Sciences and minoring in Computer Science, as well as working with the Statistical and Data Sciences department as a TA, tutor, and grader. She has done work with WNBA basketball, music information retrieval (MIR), and other open-source data projects. Her primary professional interests include data visualization, structure analysis, and general software engineering.
 
-# Section name
+Jordan grew up in Raleigh, North Carolina (with a brief stint in Georgia), before moving to Northampton for school. Growing up dancing and singing, she nearly minored in dance before settling on computer science. She has also been a member of the Smith College Noteables since her first year at Smith, and is currently the pitch (musical director and president) of the group. 
 
-Hello world!
+Along with music, Jordan also enjoys dance production and training her family's new puppy from afar!
 
-## Subsection name
+![Jordan M](images/IMG_7830.JPG)
+![Ripley Starbuck](images/rip.jpg)
+![Ripley Starbuck part 2](images/ripley.png)
 
-Hello world again!

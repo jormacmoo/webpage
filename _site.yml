@@ -21,9 +21,13 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Resume"
-      href: ResumeJordanMoody.html
+      href: JMM_Resume.html
     - text: "Example"
       href: example.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/jormacmoo
+    - icon: fa-twitter-square fa-lg
+      href: https://twitter.com/thepoodlegirl
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jordan-moody-tpg/
